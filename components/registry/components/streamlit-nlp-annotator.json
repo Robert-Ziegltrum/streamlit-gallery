@@ -12,7 +12,7 @@
     "docs": null
   },
   "media": {
-    "image": "https://github.com/cfasana/streamlit-nlp-annotator/blob/33165cadab168f377cada82f284505b0df8c4b61/assets/image.png"
+    "image": "https://raw.githubusercontent.com/cfasana/streamlit-nlp-annotator/33165cadab168f377cada82f284505b0df8c4b61/assets/image.png"
   },
   "install": {
     "pip": "pip install streamlit-nlp-annotator"
